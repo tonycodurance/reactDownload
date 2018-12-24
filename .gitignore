@@ -3,3 +3,6 @@ node_modules/
 
 # Project/user details directory
 .idea/
+
+# Chromedriver
+chromedriver.log
