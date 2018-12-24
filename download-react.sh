@@ -2,4 +2,4 @@
 
 echo "Downloading React $@"
 
-node index.js
+node index.js $@
